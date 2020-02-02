@@ -13,7 +13,7 @@ const theme = {
   lightTeal: "#B2DFDB",
   black: "#212121",
   grey: "#757575",
-  lightgrey: "#BDBDBD",
+  lightGrey: "#BDBDBD",
   white: "#FFFFFF",
   red: "#FF5252",
   darkRed: "#D32F2F",
@@ -53,12 +53,8 @@ const Page = styled.div`
   padding: 0;
 `
 
-const InnerPage = styled.div`
-  margin: 0 auto;
-`
-
 const Content = styled.main`
-  width: 70%;
+  width: 80%;
   margin: 0 auto;
 `
 
